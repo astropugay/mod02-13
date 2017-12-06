@@ -174,3 +174,24 @@ footer {
 	background-color: black;
 	color: white;
 }
+
+
+
+
+#toggleIcon,
+#toggleIcon1 {
+	background-color: red;
+	position: fixed;
+	top: 0;
+	left: 25%;
+	padding: 15px;
+	z-index: 1;
+	color:white;
+	font-size: 2em;
+	margin-left: 4px;
+	margin-top: 4px;
+}
+
+#toggleIcon1 {
+	left:0;
+}
